@@ -1,0 +1,34 @@
+body{
+	text-align: center;
+	padding: 50px;
+	background-color: navajowhite;
+	font-family: Arial;
+}
+.stopwatch{
+	background-color: white;
+	border-radius: 10px;
+	padding: 30px;
+	display: inline-block;
+	text-align: center;
+}
+img{
+	width: 110px;
+    height:110px;
+}
+h1{
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+button{
+	margin: 10px;
+	padding: 12px 24px;
+	border: none;
+	border-radius: 5px;
+	font-size: 18px;
+	background-color: skyblue;
+	cursor: pointer;
+	transition: background-color;
+}
+button:hover{
+	background-color: steelblue;
+}
