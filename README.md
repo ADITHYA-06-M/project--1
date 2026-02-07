@@ -1,0 +1,1 @@
+This is a lightweight and user-friendly stopwatch built using HTML, CSS, and JavaScript. It provides essential stopwatch features like start, pause, and reset while maintaining a clean and responsive design. Perfect for learning JavaScript timing functions and DOM manipulation
